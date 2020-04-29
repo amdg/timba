@@ -1,0 +1,5 @@
+{
+  version: '1.4.0',
+  url: 'https://github.com/X2CommunityCore/xcom2-launcher/releases/download/v1.4.0-beta/XCOM2_AlternativeModLauncher_1.4.0-beta.zip',
+  bin: 'XCOM2 Launcher.exe'
+}
