@@ -1,0 +1,12 @@
+{
+  "version": "0.4.12",
+  "description": "Neovim GUI written in Go",
+  "homepage": "https://github.com/akiyosi/goneovim",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/akiyosi/goneovim/releases/download/v0.4.12/Goneovim-v0.4.12-win64.zip",
+      "hash": "2fe23b57e9473e90d6fea029b4ad3e4a89eabb8ec093af4993115145f5625953"
+    }
+  },
+  "bin": ["goneovim.exe"]
+}
