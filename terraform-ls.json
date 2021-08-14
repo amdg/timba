@@ -1,0 +1,12 @@
+{
+  "version": "0.20.1",
+  "description": "Experimental version of Terraform language server",
+  "homepage": "https://github.com/hashicorp/terraform-ls",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/hashicorp/terraform-ls/releases/download/v0.20.1/terraform-ls_0.20.1_windows_amd64.zip",
+      "hash":"3b1814758bd97bc251caeca1bfa9c82e7c87b6e4fc72819bc124b0a55513c279"
+    }
+  },
+  "bin": ["terraform-ls.exe"]
+}
