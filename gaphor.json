@@ -8,5 +8,6 @@
       "hash": "ea660268a6998b33e2315f6e0f7e266e0850ba3ae0b45d9643c843c3423c8fa9"
     }
   },
+  "extract_dir": "gaphor-${version}-portable",
   "bin": ["data/gaphor-exe.exe"]
 }
